@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.tmp
+*.log
+Rplots.pdf
+Paper2/results/TEST_*
+Paper2/tables/TEST_*
+Paper2/figures/TEST_*

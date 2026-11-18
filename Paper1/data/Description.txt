@@ -1,0 +1,15 @@
+Bitcoin USD (BTC-USD)
+https://finance.yahoo.com/quote/BTC-USD?p=BTC-USD
+
+Dow Jones Industrial Average (^DJI)
+https://finance.yahoo.com/quote/%5EDJI?p=%5EDJI
+
+S&P 500 (^GSPC)
+https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC
+
+NASDAQ Composite (^IXIC)
+https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC
+
+IBOVESPA (^BVSP)
+https://finance.yahoo.com/quote/%5EBVSP/?p=%5EBVSP
+
